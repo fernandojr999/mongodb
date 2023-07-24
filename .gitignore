@@ -1,0 +1,12 @@
+
+target/classes/com/example/mongodb/mongodb/Cliente$ClienteBuilder.class
+target/classes/com/example/mongodb/mongodb/Cliente.class
+target/classes/com/example/mongodb/mongodb/ClienteController.class
+target/classes/com/example/mongodb/mongodb/ClienteRepository.class
+target/classes/com/example/mongodb/mongodb/MongodbApplication.class
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+target/classes/application.yml
+.idea/misc.xml
+.idea/vcs.xml
